@@ -5,3 +5,5 @@ Arquivo da aula de Git e Github para iniciantes.
 Este é um reporitorio teste para mostrar como o git funciona
 
 Editei de novo.
+
+Gostou do Curso? Quer mais? Ajude com uma doação, até um café é válido =)
